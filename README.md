@@ -51,6 +51,8 @@ The project architecture ensures maximum scalability and clean code separation:
 - `src/entities` — Business logic and state for core domain objects (Zones, User, Achievements).
 - `src/shared` — Reusable toolkits, UI components, API clients, and utilities.
 
+<img width="487" height="964" alt="image" src="https://github.com/user-attachments/assets/d1a55eff-6d4d-4757-bf24-9186b6e45c36" />
+
 <img width="488" height="964" alt="image" src="https://github.com/user-attachments/assets/16a5627e-02be-4627-ba87-e8829c5a8c93" />
 
 <img width="488" height="962" alt="image" src="https://github.com/user-attachments/assets/a6f7acbd-25fd-4f63-aca3-f81befc62865" />
