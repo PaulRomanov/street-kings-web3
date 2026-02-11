@@ -10,6 +10,10 @@
 
 - **Real-time Geolocation Map:** Full-screen interactive map powered by [Mapbox GL JS v3](https://www.mapbox.com/mapbox-gl-js), synced with your real-world position. 🏹
 - **Hexagonal Grid Intelligence:** A custom grid system dividing the world into tactical sectors using [h3-js](https://h3geo.org/). 🗺️
+- **🌫️ Fog of War System:** Three-tier visibility system adding strategic depth:
+  - **Active Zone:** Real-time visibility around your GPS position and owned sectors.
+  - **Explored Zone:** Cached intelligence from previous visits (dimmed/stale data).
+  - **Fog Zone:** Unexplored territories hidden in darkness.
 - **Living World (AI Bots):** Dynamic bot factions that expand their territory, providing challenges for new players. 🤖
 - **Web3 Economy & Support:**
   - **Crypto Payments:** Integrated BNB and USDT (BSC) payments for IP packages. 💸
@@ -50,6 +54,7 @@ The project architecture ensures maximum scalability and clean code separation:
 - `src/features` — User scenarios (Auth, Capture, Payment Flow, Profile Updates).
 - `src/entities` — Business logic and state for core domain objects (Zones, User, Achievements).
 - `src/shared` — Reusable toolkits, UI components, API clients, and utilities.
+
 
 <img width="487" height="964" alt="image" src="https://github.com/user-attachments/assets/d1a55eff-6d4d-4757-bf24-9186b6e45c36" />
 
