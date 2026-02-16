@@ -29,6 +29,7 @@
   - **Intel Alerts:** Real-time feedback via email (powered by Resend). 📧
 - **Admin Command Center:** Powerful admin panel for user management, achievement control, and game balancing. 🕹️
 - **Multi-language Support:** Fully localized in **English**, **Russian**, and **Serbian**. 🌍
+- **Progressive Web App (PWA):** Installable on iOS/Android/Desktop, offline support, and auto-updates. 📱
 
 ## 🛠 Tech Stack
 
@@ -40,6 +41,7 @@
 - **Grid System:** [h3-js](https://h3geo.org/)
 - **Notifications:** [Resend](https://resend.com/)
 - **Styles:** SCSS (SASS) with a modular variable system and BEM methodology.
+- **PWA:** [@vite-pwa/nuxt](https://vite-pwa-org.netlify.app/) + Workbox (Offline mode logic)
 - **Architecture:** [Feature-Sliced Design (FSD)](https://feature-sliced.design/)
 
 ---
@@ -57,12 +59,11 @@ The project architecture ensures maximum scalability and clean code separation:
 
 <img width="413" height="696" alt="Снимок экрана 2026-02-12 в 12 45 54" src="https://github.com/user-attachments/assets/ba440a59-701f-4844-a94d-69418f6c6939" />
 
+<img width="479" height="819" alt="Снимок экрана 2026-02-16 в 09 10 29" src="https://github.com/user-attachments/assets/524c9d59-b86a-4988-b26c-cd2adcb59c5e" />
 
-<img width="487" height="964" alt="image" src="https://github.com/user-attachments/assets/d1a55eff-6d4d-4757-bf24-9186b6e45c36" />
+<img width="553" height="863" alt="Снимок экрана 2026-02-16 в 09 11 21" src="https://github.com/user-attachments/assets/de5278fb-854d-4ba8-9f2a-0333f0e7cfe8" />
 
-<img width="488" height="964" alt="image" src="https://github.com/user-attachments/assets/16a5627e-02be-4627-ba87-e8829c5a8c93" />
-
-<img width="488" height="962" alt="image" src="https://github.com/user-attachments/assets/a6f7acbd-25fd-4f63-aca3-f81befc62865" />
+<img width="545" height="811" alt="Снимок экрана 2026-02-16 в 09 14 55" src="https://github.com/user-attachments/assets/ac89cbc3-dca5-4b82-a3bb-90e27ec92834" />
 
 <img width="498" height="969" alt="image" src="https://github.com/user-attachments/assets/6b9de00c-2ffb-4ae6-bcd3-a0048dc5131a" />
 
