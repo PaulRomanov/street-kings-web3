@@ -2,7 +2,7 @@
 
 **STREET KINGS** is an ambitious location-based MMO strategy game. Players capture real-world urban territories, expand their influence, and battle for the title of "King of the Streets" using an interactive world map.
 
-🔗 **Project Demo:** [https://street-kings.vercel.app/](https://street-kings.vercel.app/)
+🔗 **Project:** [https://streetkings.app/](https://streetkings.app/)
 
 ---
 
